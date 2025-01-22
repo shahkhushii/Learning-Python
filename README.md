@@ -40,3 +40,12 @@ Below is a summary of my daily progress. Click on the links to explore the corre
    ```bash
    git clone https://github.com/yourusername/python-learning-journey.git
    cd python-learning-journey
+
+   ## ---
+
+## Thank You 🙏
+
+Thank you for visiting my repository! I appreciate your interest in my Python learning journey. If you have any feedback, suggestions, or just want to say hi, feel free to reach out or open an issue.
+
+Happy coding! 🐍🚀
+

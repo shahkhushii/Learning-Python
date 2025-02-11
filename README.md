@@ -6,9 +6,6 @@ Welcome to my Python learning journey!This repository contains a day-by-day log 
 - [About](#about)
 - [Daily Progress](#daily-progress)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Technologies Used](#technologies-used)
-- [Future Goals](#future-goals)
-- [Acknowledgments](#acknowledgments)
 
 ---
 

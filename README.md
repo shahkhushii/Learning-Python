@@ -19,15 +19,15 @@ This repository documents my Python learning process, broken down into daily mil
 
 Below is a summary of my daily progress. Click on the links to explore the corresponding files:
 
-| Day | Topic                             | Description                                                 |
-|-----|-----------------------------------|-------------------------------------------------------------|
+| Day | Topic                                 | Description                                                 |
+|-----|---------------------------------------|-------------------------------------------------------------|
 | 1   | [Introduction to Python](DAY1.ipynb)  | Basics: print statements and arithmetic operations.         |
-| 2   | [DataTypes and Operators](./Day2) | Variables, Data types and Operators.                        |
-| 3   | [Functions](./Day3)               | Defining and using functions, parameters, and return values.|
-| 4   | [Conditional Statements](./Day4)  | Working with else, if and elif statements.                  |
-| 5   | [Iterative Statements](./Day5)    | Basic for and while loops.                                  |
-| ... | ...                               | ...                                                         |
-| N   | [Final Project](./DayN)           | A comprehensive project showcasing my overall Python skills.|
+| 2   | [DataTypes and Operators](DAY2.ipynb) | Variables, Data types and Operators.                        |
+| 3   | [Functions](DAY3.ipynb)               | Defining and using functions, parameters, and return values.|
+| 4   | [Conditional Statements](DAY4.ipynb)  | Working with else, if and elif statements.                  |
+| 5   | [Iterative Statements](DAY5.ipynb)    | Basic for and while loops.                                  |
+| ... | ...                                   | ...                                                         |
+| N   | [Final Project](./DayN)               | A comprehensive project showcasing my overall Python skills.|
 
 ---
 

@@ -19,15 +19,15 @@ This repository documents my Python learning process, broken down into daily mil
 
 Below is a summary of my daily progress. Click on the links to explore the corresponding files:
 
-| Day | Topic                             | Description                                                    |
-|-----|-----------------------------------|----------------------------------------------------------------|
-| 1   | [Introduction to Python](./Day1) | Basics: print statements, variables, and data types.           |
-| 2   | [Control Flow](./Day2)           | `if` statements, loops, and basic conditions.                  |
-| 3   | [Functions](./Day3)              | Defining and using functions, parameters, and return values.    |
-| 4   | [Lists and Tuples](./Day4)       | Working with lists, tuples, slicing, and list comprehensions.   |
-| 5   | [Dictionaries](./Day5)           | Dictionary basics, methods, and practical use cases.            |
-| ... | ...                               | ...                                                            |
-| N   | [Final Project](./DayN)          | A comprehensive project showcasing my overall Python skills.    |
+| Day | Topic                             | Description                                                 |
+|-----|-----------------------------------|-------------------------------------------------------------|
+| 1   | [Introduction to Python](./Day1)  | Basics: print statements and arithmetic operations.         |
+| 2   | [DataTypes and Operators](./Day2) | Variables, Data types and Operators.                        |
+| 3   | [Functions](./Day3)               | Defining and using functions, parameters, and return values.|
+| 4   | [Conditional Statements](./Day4)  | Working with else, if and elif statements.                  |
+| 5   | [Iterative Statements](./Day5)    | Basic for and while loops.                                  |
+| ... | ...                               | ...                                                         |
+| N   | [Final Project](./DayN)           | A comprehensive project showcasing my overall Python skills.|
 
 ---
 

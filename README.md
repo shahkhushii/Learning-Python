@@ -35,8 +35,7 @@ Below is a summary of my daily progress. Click on the links to explore the corre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-learning-journey.git
-   cd python-learning-journey
+   https://github.com/shahkhushii/Learning-Python.git
 
    ## ---
 

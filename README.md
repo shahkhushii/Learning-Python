@@ -21,7 +21,7 @@ Below is a summary of my daily progress. Click on the links to explore the corre
 
 | Day | Topic                             | Description                                                 |
 |-----|-----------------------------------|-------------------------------------------------------------|
-| 1   | [Introduction to Python](./DAY1)  | Basics: print statements and arithmetic operations.         |
+| 1   | [Introduction to Python](DAY1.ipynb)  | Basics: print statements and arithmetic operations.         |
 | 2   | [DataTypes and Operators](./Day2) | Variables, Data types and Operators.                        |
 | 3   | [Functions](./Day3)               | Defining and using functions, parameters, and return values.|
 | 4   | [Conditional Statements](./Day4)  | Working with else, if and elif statements.                  |

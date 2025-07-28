@@ -36,7 +36,6 @@ Below is a summary of my daily progress. Click on the links to explore the corre
 | 14-15 | [Pandas Librariy](DAY14&15.ipynb)   | Offers data structures for handling and analyzing data efficiently.            |
 | 16-17 | [Matplotlib Library](DAY16&17.ipynb) | A plotting library for creating static, animated, and interactive visualizations.   |
 | 18-19 | [Seabron Library](DAY18&19.ipynb)   | Built on top of Matplotlib, provides a high-level interface for drawing attractive statistical graphics.        |
-| N   | [Final Project](./DayN)               | A comprehensive project showcasing my overall Python skills.|
 
 
 
